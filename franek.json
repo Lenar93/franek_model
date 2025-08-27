@@ -4,7 +4,7 @@
   "wake_word": "Franek",
   "author": "Lenar",
   "website": "https://github.com/Lenar93",
-  "model": "https://raw.githubusercontent.com/aegjoyce/microwakeword-custom-words/refs/heads/main/models/alfred.tflite",
+  "model": "https://github.com/Lenar93/franek_model/raw/refs/heads/main/franek.tflite",
   "version": 2,
   "trained_languages": ["en"],
   "micro": {
