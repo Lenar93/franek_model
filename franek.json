@@ -3,7 +3,7 @@
   "wake_word": "franek",
   "author": "lenar",
   "website": "https://github.com/Lenar93",
-  "model": "https://github.com/Lenar93/franek_model/raw/refs/heads/main/franek.tflite",
+  "model": "https://github.com/Lenar93/franek_model/releases/download/1.0/franek.tflite",
   "version": 2,
   "trained_languages": ["en"],
   "micro": {
